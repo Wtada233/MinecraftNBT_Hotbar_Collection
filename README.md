@@ -1,5 +1,6 @@
 # Minecraft快捷栏 NBT 集合 (Minecraft Hotbar NBT Collection)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/Wtada233/MinecraftNBT_Hotbar_Collection)
+
 这是一个用于存储和管理我的世界（Minecraft）快捷栏布局的集合。
 
 ## 文件说明
